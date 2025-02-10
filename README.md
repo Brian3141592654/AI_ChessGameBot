@@ -1,7 +1,7 @@
 # 🏆 Smart Gomoku AI  
 
 ## 🎯 Project Overview  
-This project aims to develop a **Gomoku AI** that allows players to compete against a computer opponent. The AI evaluates potential moves based on Gomoku rules and assigns scores to determine the **best move for victory**. The program achieves an **80% win rate** against other computer Gomoku programs, proving its effectiveness.  
+This project aims to develop a **Gomoku AI** that allows players to compete against a computer opponent. The AI evaluates potential moves based on Gomoku rules and assigns scores to determine the **best move for victory**. The program achieves an **80% win rate** against other computer Gomoku programs in class, proving its effectiveness.  
 
 ---
 
