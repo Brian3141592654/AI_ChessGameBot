@@ -23,8 +23,7 @@ The **Smart Gomoku AI** follows a structured decision-making process:
 2. **Move Calculation** 🔢  
    - The AI evaluates **all possible moves** and assigns a **score** based on:  
      - **Winning Opportunities** ✅  
-     - **Defensive Needs** 🛡️  
-     - **Strategic Board Positioning** 📌  
+     - **Defensive Needs** 🛡️    
    - The AI **chooses the highest-scoring move** as its next step.  
 
 3. **Scoring System** 📊  
